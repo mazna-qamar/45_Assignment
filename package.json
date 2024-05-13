@@ -1,0 +1,17 @@
+{
+  "name": "45_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mazna",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "osama_bin_ladim_simple-calculator": "^1.0.0"
+  }
+}
